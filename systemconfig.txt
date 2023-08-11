@@ -1,0 +1,5 @@
+for remote repo
+token- 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 
+name - svb1
+name of remote repo- sample-repository
+
