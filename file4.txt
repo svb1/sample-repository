@@ -1,2 +1,3 @@
 making changes in file
 again making changes
+doing changes to see stash
